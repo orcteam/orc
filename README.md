@@ -1,1 +1,1 @@
-# orc
+ORC là viết tắt của Operational Research Computing chúng tôi là một nhóm nghiên cứu bảo mật hệ thống tại hà nội việt nam. chúng tôi hoạt động theo phương châm an toàn trên tất cả. chúng tôi chuyên nghiên cứu chuyên sâu các giải pháp công nghệ thông tin tổng thể liên quan tới hệ thống và an ninh mạng
